@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\T2207A.csproj",
+      "projectName": "T2207A",
+      "projectPath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\T2207A.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
