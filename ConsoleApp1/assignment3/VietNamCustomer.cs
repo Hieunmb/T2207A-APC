@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace T2207A
+namespace T2207A.assignment3
 {
-    internal class Customer
+    internal class VietNamCustomer
     {
     }
 }

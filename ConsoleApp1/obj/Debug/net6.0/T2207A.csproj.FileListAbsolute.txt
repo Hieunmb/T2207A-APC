@@ -1,0 +1,15 @@
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.csproj.AssemblyReference.cache
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.AssemblyInfoInputs.cache
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.AssemblyInfo.cs
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.csproj.CoreCompileInputs.cache
+D:\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\T2207A.exe
+D:\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\T2207A.deps.json
+D:\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\T2207A.runtimeconfig.json
+D:\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\T2207A.dll
+D:\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\T2207A.pdb
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.dll
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\T2207A.dll
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.pdb
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.genruntimeconfig.cache
+D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\T2207A.dll

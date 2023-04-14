@@ -51,11 +51,11 @@ namespace T2207A
         }
         public void Learn()
         {
-            Console.WriteLine("Learning...");
+            Console.WriteLine("Leanning...");
         }
         public void Learn(string s)// overloading
         {
-            Console.WriteLine("Learning...");
+            Console.WriteLine("Leanning...");
         }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace T2207A
 {
-    internal class T2207A
+    public class T2207AStudent : FPTStudent
     {
+        public T2207AStudent()
+        {
+            this.Run();
+        }
     }
 }
