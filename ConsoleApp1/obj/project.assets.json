@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\T2207A.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\T2207A-APC\\ConsoleApp1\\T2207A.csproj",
       "projectName": "T2207A",
-      "projectPath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\T2207A.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\T2207A-APC\\ConsoleApp1\\T2207A.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\T2207A-APC\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

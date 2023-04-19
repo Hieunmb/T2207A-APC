@@ -78,7 +78,7 @@ public class Program
         x3 = x1.Add(x2);
         x3.Reduce();
         x3.Print();
-
+        //Car c = new Car();// trong C# ko co anonymous class
     }
     public static Boolean isPrimed(int m)
     {

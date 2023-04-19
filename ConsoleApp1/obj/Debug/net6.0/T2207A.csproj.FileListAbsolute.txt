@@ -13,3 +13,11 @@ D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\T2207A.dll
 D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.pdb
 D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\T2207A.genruntimeconfig.cache
 D:\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\T2207A.dll
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.dll
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\refint\T2207A.dll
+C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.pdb
