@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using T2207A;
+using T2207A.assignment6;
 
 public class Program
 {
@@ -65,20 +66,40 @@ public class Program
         Student st = new Student();
         st.Run();
         st.Lean();*/
+        /*
+                Fraction x1 = new Fraction();
+                Fraction x2 = new Fraction();
+                Fraction x3 = new Fraction();
 
-        Fraction x1 = new Fraction();
-        Fraction x2 = new Fraction();
-        Fraction x3 = new Fraction();
+                x1.Enter();
+                x2.Enter();
+                x1.Print();
+                x2.Print();
 
-        x1.Enter();
-        x2.Enter();
-        x1.Print();
-        x2.Print();
-
-        x3 = x1.Add(x2);
-        x3.Reduce();
-        x3.Print();
+                x3 = x1.Add(x2);
+                x3.Reduce();
+                x3.Print();*/
         //Car c = new Car();// trong C# ko co anonymous class
+        News n = new News();
+        Console.WriteLine("Nhap id: ");
+        string cmd1 = Console.ReadLine();
+        n.Id = Convert.ToInt32(cmd1);
+        Console.WriteLine("Nhap ten: ");
+        n.Title = Console.ReadLine();
+        Console.WriteLine("Nhap ngay xuat ban: ");
+        n.PublishDate = Console.ReadLine();
+        Console.WriteLine("Nhap ten tac gia: ");
+        n.Author = Console.ReadLine();
+        Console.WriteLine("Nhap noi dung: ");
+        n.Content = Console.ReadLine();
+
+        for (int i = 0; i < n.RateList.Length; i++)
+        {
+            Console.WriteLine("Nhap vao gia tri cho phan tu thu " + (i + 1) + ": ");
+            n.RateList[i] = Convert.ToInt32(Console.ReadLine());
+        }
+        n.Calculate();
+        n.Display();
     }
     public static Boolean isPrimed(int m)
     {

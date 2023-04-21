@@ -21,3 +21,10 @@ C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.cspr
 C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.dll
 C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\refint\T2207A.dll
 C:\Users\Lenovo\Source\Repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.pdb
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\bin\Debug\net6.0\T2207A.exe
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\bin\Debug\net6.0\T2207A.deps.json
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\bin\Debug\net6.0\T2207A.runtimeconfig.json
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\bin\Debug\net6.0\T2207A.dll
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\bin\Debug\net6.0\T2207A.pdb
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\T2207A.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\T2207A-APC\ConsoleApp1\obj\Debug\net6.0\ref\T2207A.dll

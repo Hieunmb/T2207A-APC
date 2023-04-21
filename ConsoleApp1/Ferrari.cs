@@ -15,5 +15,7 @@ namespace T2207A
         {
 
         }
+        public void SpeedUp() { 
+        }
     }
 }

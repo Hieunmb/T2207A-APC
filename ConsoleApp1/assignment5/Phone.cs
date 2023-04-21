@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace T2207A.assignment5
 {
-    public class Phone
-    {
-        abstract void insertPhone(String name, String phone);
+        public abstract class Phone
+        {
+            public abstract void InsertPhone(String name, String phone);
+            public abstract void RemovePhone(String name);
+            public abstract void UpdatePhone(String name, String oldPhone, String newPhone);
+            public abstract PhoneNumber SearchPhone(String name);
+            public abstract void Sort();
+        }
     }
-}
