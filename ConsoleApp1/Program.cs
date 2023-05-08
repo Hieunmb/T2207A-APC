@@ -327,8 +327,8 @@ public class Program
             Console.WriteLine("**  4. Exit                                          **");
             Console.WriteLine("*******************************************************");
             Console.Write("Select number: ");
-            int key = Convert.ToInt32(Console.ReadLine());
-            switch (key)
+            int keyy = Convert.ToInt32(Console.ReadLine());
+            switch (keyy)
             {
                 case 1:
                     Console.WriteLine("\n1. Add product");
