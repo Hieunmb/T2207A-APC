@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace T2207A.exam
+namespace T2207A.product1
 {
     public class Product
     {

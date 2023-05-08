@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace T2207A.exam
+namespace T2207A.product1
 {
     public class ManagerProduct
     {
