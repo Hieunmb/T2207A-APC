@@ -4,6 +4,7 @@ using T2207A.assignment3;
 using T2207A.assignment7;
 using T2207A.assignment5;
 using T2207A.assignment6;
+using T2207A.exam;
 
 public class Program
 {
@@ -190,7 +191,7 @@ public class Program
         }
         n.Calculate();
         n.Display();*/
-        ManagerStudent quanLySinhVien = new ManagerStudent();
+        /*ManagerStudent quanLySinhVien = new ManagerStudent();
 
         while (true)
         {
@@ -305,6 +306,47 @@ public class Program
                     }
                     break;
                 case 0:
+                    Console.WriteLine("\nBan da chon thoat chuong trinh!");
+                    return;
+                default:
+                    Console.WriteLine("\nHay chon chuc nang trong hop menu.");
+                    break;
+            }
+
+        }
+    }*/
+        ManagerProduct quanLySinhVien = new ManagerProduct();
+
+        while (true)
+        {
+            Console.WriteLine("\nProduct Management Program");
+            Console.WriteLine("*************************MENU**************************");
+            Console.WriteLine("**  1. Add product records                           **");
+            Console.WriteLine("**  2. Display product records                       **");
+            Console.WriteLine("**  3. Delete product by Id                          **");
+            Console.WriteLine("**  4. Exit                                          **");
+            Console.WriteLine("*******************************************************");
+            Console.Write("Select number: ");
+            int key = Convert.ToInt32(Console.ReadLine());
+            switch (key)
+            {
+                case 1:
+                    Console.WriteLine("\n1. Add product");
+                    quanLySinhVien.AddProduct();
+                    Console.WriteLine("\nAdd product success!");
+                    break;
+                case 2:
+                        Console.WriteLine("\n2. Display product records");
+                        quanLySinhVien.ShowProduct(quanLySinhVien.getListProduct());
+                    break;
+                case 3:
+                        int id;
+                        Console.WriteLine("\n3. Delete Product");
+                        Console.Write("\nNhap ID: ");
+                        id = Convert.ToInt32(Console.ReadLine());
+                        quanLySinhVien.DeleteProduct(id);
+                    break;
+                case 4:
                     Console.WriteLine("\nBan da chon thoat chuong trinh!");
                     return;
                 default:
